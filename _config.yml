@@ -6,3 +6,5 @@ author: Miroslav Mareš
 email: mmares.trinity@gmail.com
 gitlab:
   repository_url: https://gitlab.com/mmares.trinity
+header_pages:
+  - o-mne.md
