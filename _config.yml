@@ -4,3 +4,5 @@ title: Osobní IT blog
 description: O Linuxu, C++, programování...
 author: Miroslav Mareš
 email: mmares.trinity@gmail.com
+gitlab:
+  - repository_url: https://gitlab.com/mmares.trinity
