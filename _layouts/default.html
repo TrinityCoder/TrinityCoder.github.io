@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "cs-CZ" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +9,10 @@
       .btn-gitlab .icon {
         opacity: 0.6;
         background: url("{{ "/assets/gitlab-logo-16x16-final.png" | relative_url }}");
+      }
+      .btn-o-mne .icon {
+        opacity: 0.6;
+        text-align: center;
       }
     </style>
 {% seo %}
@@ -33,7 +37,7 @@
             Jít na můj Gitlab
           </a>
           <span style="float: right;">
-            <a href="{{ "/o-mne" | relative_url }}" class="btn"><span class="icon"></span>
+            <a href="{{ "/o-mne" | relative_url }}" class="btn btn-o-mne"><span class="icon"></span>
               O mně
             </a>
           </span>
