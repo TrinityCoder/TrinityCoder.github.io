@@ -2,7 +2,7 @@
 layout: page
 title: O mně
 ---
-Jmenuji se Miroslav Mareš a je mi přes 22 let. Nejvíc ze všeho mě baví počítače, programování,
+Jmenuji se __Miroslav Mareš__ a je mi přes 22 let. Nejvíc ze všeho mě baví počítače, programování,
 Linux a věci s těmito související.
 
 Uvádím zde odkazy na většinu ze svých internetových profilů, které aktivně používám:
