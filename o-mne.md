@@ -16,7 +16,7 @@ LinkedIn:      | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/mirosl
 e-mail:        | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.com)
 MojeID         | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
 
-Pokud byste mi chtěli poslat něco důvěrného tak, abych si to nemohl přečíst kdokoli jiný,
+Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html).
 Zde je jeho otisk (pro ověření):
 
