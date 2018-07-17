@@ -22,11 +22,12 @@ layout: default
         <small style="float: right;">
           Kategorie: {{ post.category | default: "Nezařazeno" }}
         </small>
+        <br>
         <small style="float: right;">
           {% if post.tags.size() > 0 %}
             Tagy:&nbsp;&nbsp;
             {% for tag in post.tags %}
-              <em>{{ tag }}</em>&nbps;
+              <em>{{ tag }}</em>&nbsp;
             {% endfor %}
           {% endif %}
         </small>
