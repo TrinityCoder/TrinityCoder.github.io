@@ -10,3 +10,4 @@ gitlab:
   user_url: https://gitlab.com/mmares.trinity
 header_pages:
   - o-mne.md
+google_analytics: UA-119604643-2
