@@ -20,7 +20,7 @@ layout: default
           {{ post.excerpt | strip_html }}
         </div>
         <small style="float: right;">
-          Kategorie: {% post.category | default: "Nezařazeno" %}
+          Kategorie: {{ post.category | default: "Nezařazeno" }}
         </small>
         <small style="float: right;">
           {% if post.tags.size() > 0 %}
