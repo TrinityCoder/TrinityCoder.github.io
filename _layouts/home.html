@@ -19,10 +19,13 @@ layout: default
         <div class="post-content">
           {{ post.excerpt | strip_html }}
         </div>
-        <small>
-          {% for tag in post.tags %}
-            <span>{{ tag }}</span>,&nbsp;
-          {% endfor %}
+        <small style="float: right;">
+          {% if post.tags.size() > 0 %}
+            Tagy:&nbsp;
+            {% for tag in post.tags %}
+              <span>{{ tag }}</span>,
+            {% endfor %}
+          {% endif %}
         </small>
       </li>
     {% endfor %}
