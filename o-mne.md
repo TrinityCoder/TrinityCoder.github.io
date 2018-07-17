@@ -17,7 +17,9 @@ e-mail:        | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.c
 MojeID:        | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
-můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html).
+můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
+([lokální záloha zde]({{ "/assets/gpgkey.txt" | relative_url }})).
+
 Zde je jeho otisk (pro ověření):
 
 ```
