@@ -20,10 +20,13 @@ layout: default
           {{ post.excerpt | strip_html }}
         </div>
         <small style="float: right;">
+          Kategorie: {% post.category | default: "Nezařazeno" %}
+        </small>
+        <small style="float: right;">
           {% if post.tags.size() > 0 %}
-            Tagy:&nbsp;
+            Tagy:&nbsp;&nbsp;
             {% for tag in post.tags %}
-              <span>{{ tag }}</span>,
+              <em>{{ tag }}</em>&nbps;
             {% endfor %}
           {% endif %}
         </small>
