@@ -14,7 +14,11 @@
         text-align: center;
       }
     </style>
-{% seo %}
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+
+    {% seo %}
   </head>
 
   <body>
