@@ -13,3 +13,5 @@ header_pages:
   - o-mne.md
 google_analytics: UA-119604643-2
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
