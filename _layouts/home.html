@@ -20,7 +20,7 @@ layout: default
           {{ post.excerpt | strip_html }}
         </div>
         {% if post.tags.size() > 0 %}
-          <div style="float: right;">
+          <div class="post-tags">
             <small>tagy: <em>{{ post.tags | join: "</em>, <em>" }}</em></small>
           </div>
         {% endif %}

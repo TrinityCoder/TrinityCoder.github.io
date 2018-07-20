@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting" style="margin-bottom: 3.67rem;">
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-header">
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       <small>{{ page.date | date: "%-d %B %Y" }}</small>
@@ -16,7 +16,7 @@ layout: default
   </div>
 
   {% if page.tags %}
-    <div style="float: right;">
+    <div class="post-tags">
       <small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
     </div>
   {% endif %}

@@ -1,0 +1,32 @@
+/** @file   my_adjustments.scss
+  *
+  * Zde se nachází moje úpravy (S)CSS, díky kterým je můj web
+  * ještě krásnější, než kdy dříve.
+ */
+
+.btn-gitlab .icon {
+  background: url('/assets/gitlab-logo-16x16-final.png');
+  opacity: 0.6;
+}
+
+.btn-o-mne {
+  float: right;
+  text-align: center;
+}
+
+.site-title {
+  margin: 0;
+  text-decoration: none;
+}
+
+.site-description {
+  margin: 0 0 20px 40px;
+}
+
+article[class='post'] {
+  margin-bottom: 3.67em;
+}
+
+.post-tags {
+  float: right;
+}

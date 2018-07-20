@@ -5,30 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <style media="screen" type="text/css">
-      .btn-gitlab .icon {
-        opacity: 0.6;
-        background: url("{{ "/assets/gitlab-logo-16x16-final.png" | relative_url }}");
-      }
-      .btn-o-mne {
-        text-align: center;
-      }
-      .site-title {
-        margin: 0;
-      }
-      .site-description {
-        margin: 0 0 20px 40px;
-      }
-    </style>
-    {% if page.use_math %}
-      {% include mathjax_support.html %}
-    {% endif %}
-
+    <link rel="stylesheet" href="{{ '/assets/css/my_adjustments.css' | relative_url }}">
+    {% include mathjax_support.html %}
     {% seo %}
   </head>
 
   <body>
-
     <header>
       <div class="container">
         <h1 class="site-title"><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -41,11 +23,9 @@
           <a href="{{ site.gitlab.user_url }}" class="btn btn-gitlab"><span class="icon"></span>
             Gitlab (mmares.trinity)
           </a>
-          <span style="float: right;">
-            <a href="{{ "/o-mne" | relative_url }}" class="btn btn-o-mne">
-              O mně
-            </a>
-          </span>
+          <a href="{{ '/o-mne' | relative_url }}" class="btn btn-o-mne">
+            O mně
+          </a>
         </section>
       </div>
     </header>
