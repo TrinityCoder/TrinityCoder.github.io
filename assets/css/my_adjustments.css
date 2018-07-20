@@ -16,6 +16,9 @@
 
 .site-title {
   margin: 0;
+}
+
+.site-title a {
   text-decoration: none;
 }
 
