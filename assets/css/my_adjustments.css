@@ -5,7 +5,7 @@
  */
 
 .btn-gitlab .icon {
-  background: url('/assets/gitlab-logo-16x16-final.png');
+  background: url('/assets/gitlab-logo-16x16-final.png') 0 0 no-repeat;
   opacity: 0.6;
 }
 
