@@ -2,11 +2,11 @@
     <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | absolute_url }}">
     <meta name="generator" content="Jekyll">
     <meta name="author" content="Miroslav Mareš">
-    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip | truncate: 160 | escape }}">
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip | truncate: 120 | escape }}">
     <meta property="og:image" content="{{ '/assets/profile.jpg' | absolute_url }}">
     <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
     <meta property="og:locale" content="{{ page.lang | default: site.lang | default: 'cs' }}">
-    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip | truncate: 160 | escape }}">
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | strip | truncate: 120 | escape }}">
     <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
     <meta property="og:site_name" content="{{ site.title | escape }}">
     {% if page.layout == "post" -%}
@@ -15,7 +15,7 @@
     {% endif -%}
     <script type="application/ld+json">
       {
-        "description": "{{ page.excerpt | default: site.description | strip_html | strip | truncate: 160 | escape }}",
+        "description": "{{ page.excerpt | default: site.description | strip_html | strip | truncate: 120 | escape }}",
         "author": {
           "@type": "Person",
           "name": "{{ page.author | default: site.author }}"
