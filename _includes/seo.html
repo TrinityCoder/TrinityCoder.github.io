@@ -1,5 +1,5 @@
 {%- capture current_absolute_url -%}{{ page.url | replace: 'index.html', '' | absolute_url }}{%- endcapture -%}
-{%- capture current_description -%}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{%- endcapture -%}
+{%- capture current_description -%}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 210 | escape }}{%- endcapture -%}
 {%- capture current_title -%}{{ page.title | default: site.title | escape }}{%- endcapture -%}
 <title>{{ current_title }}</title>
 <link rel="canonical" href="{{ current_absolute_url }}">
