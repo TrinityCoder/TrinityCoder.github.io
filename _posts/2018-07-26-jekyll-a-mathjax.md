@@ -63,13 +63,13 @@ __Doporučení__: Výše uvedený _MathJax_ config můžete uložit např.
 do souboru `_includes/mathjax_support.html`, a na konec `<head>` elementu
 vašeho HTML přidat něco na tento způsob:
 
-{%- raw -%}
+{% raw %}
 ```html
 {%- if page.use_math %}
   {% include mathjax_support.html %}
 {%- endif %}
 ```
-{%- endraw -%}
+{% endraw %}
 
 ## 2) Vkládání _MathJax_ skriptu pouze do článků, kde jej hodláme použít
 
@@ -79,7 +79,7 @@ jednoduše do [Front Matteru][5] přidejte `use_math: true`.
 ```yaml
 ---
 title: blabla
-author: Your Honor
+author: Your Omnivor
 # etc...
 use_math: true
 ---
