@@ -17,6 +17,14 @@ Pojďme tedy na to! Nejprve ukázka, jak bude výsledek našeho snažení vypada
   s(t) = s_0 + \int_{0}^{t} v(t) \text{ } \mathrm{d}t
 \end{equation}
 
+Přičemž zdrojový kód této rovnice je:
+
+{% highlight tex %}
+\begin{equation}
+  s(t) = s_0 + \int_{0}^{t} v(t) \text{ } \mathrm{d}t
+\end{equation}
+{% endhighlight %}
+
 [1]: https://cs.wikipedia.org/wiki/LaTeX
 [2]: https://www.mathjax.org/
 [3]: http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/
