@@ -19,7 +19,9 @@ defaults:
   - scope:
       path: ""
     values:
+      author: "Miroslav Mareš"
       comments: true
+      use_math: false
   - scope:
       path: ""
       type: posts
