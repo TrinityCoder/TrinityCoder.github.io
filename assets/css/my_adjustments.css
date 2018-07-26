@@ -26,7 +26,8 @@
   margin: 0 0 20px 40px;
 }
 
-article[class='post'] {
+article[class='post'],
+ul[class='post-list'] > li+li::before {
   margin-bottom: 3.67em;
 }
 
