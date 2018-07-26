@@ -64,7 +64,7 @@ do souboru `_includes/mathjax_support.html`, a na konec `<head>` elementu
 vašeho HTML přidat něco na tento způsob:
 
 {% raw %}
-```html
+```js
 {%- if page.use_math %}
   {% include mathjax_support.html %}
 {%- endif %}
