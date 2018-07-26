@@ -14,7 +14,9 @@ nicméně několik detailů jsem musel pozměnit, než mi to začlo fungovat.
 Pojďme tedy na to! Nejprve ukázka, jak bude výsledek našeho snažení vypadat:
 
 $$
-s(t) = s_0 + \int_{0}^{t} v(t) \text{ } \mathrm{d}t
+\begin{equation}
+  s(t) = s_0 + \int_{0}^{t} v(t) \text{ } \mathrm{d}t
+\end{equation}
 $$
 
 [1]: https://cs.wikipedia.org/wiki/LaTeX
