@@ -30,7 +30,7 @@ article[class='post'] {
   margin-bottom: 3.67em;
 }
 
-.post-list > li:not(:last-child)::after {
+.post-list > li:not(:last-child) {
   margin-bottom: 0.8em;
 }
 
