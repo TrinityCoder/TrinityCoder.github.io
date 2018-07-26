@@ -27,10 +27,10 @@
       "@type": "Person",
       "name": "{{ current_author }}"
     },
-    "@type": "{%- if page.layout == 'post' -%}BlogPosting{%- else -%}WebPage{%- endif -%}",
+    "@type": "{{ page.ld_json_type | default: 'WebPage' }}",
     "url": "{{ current_absolute_url }}",
     "headline": "{{ current_title }}",
-    {% if page.layout == "post" -%}
+    {% if page.ld_json_type == "BlogPosting" -%}
     "datePublished": "{{ current_date_published }}",
     "dateModified": "{{ current_date_published }}",
     "image": "{{ current_image_url }}",

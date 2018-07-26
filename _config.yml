@@ -15,3 +15,16 @@ google_analytics: UA-119604643-2
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      ld_json_type: BlogPosting
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+      ld_json_type: WebPage
