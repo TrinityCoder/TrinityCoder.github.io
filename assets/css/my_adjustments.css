@@ -30,6 +30,10 @@ article[class='post'] {
   margin-bottom: 3.67em;
 }
 
+.post-list > li+li:not(:last-child)::after {
+  margin-bottom: 0.8em;
+}
+
 .post-tags {
   text-align: right;
   margin-top: 0.8em;
