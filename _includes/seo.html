@@ -28,7 +28,7 @@
     },
     "@type": "{%- if page.layout == 'post' -%}BlogPosting{%- else -%}WebPage{%- endif -%}",
     "url": "{{ current_absolute_url }}",
-    "headline:" "{{ current_title }}",
+    "headline": "{{ current_title }}",
     {% if page.layout == "post" -%}
     "datePublished": "{{ current_date_published }}",
     "dateModified": "{{ current_date_published }}",
