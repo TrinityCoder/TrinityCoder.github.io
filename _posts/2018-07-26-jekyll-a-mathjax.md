@@ -19,11 +19,11 @@ Pojďme tedy na to! Nejprve ukázka, jak bude výsledek našeho snažení vypada
 
 Přičemž zdrojový kód této rovnice je:
 
-{% highlight tex %}
+```tex
 \begin{equation}
   s(t) = s_0 + \int_{0}^{t} v(t) \text{ } \mathrm{d}t
 \end{equation}
-{% endhighlight %}
+```
 
 ## 1) Přidání _MathJax_ configu do `<head>` elementu
 
@@ -63,13 +63,13 @@ __Doporučení__: Výše uvedený _MathJax_ config můžete uložit např.
 do souboru `_includes/mathjax_support.html`, a na konec `<head>` elementu
 vašeho HTML přidat něco na tento způsob:
 
-```js
 {%- raw -%}
+```html
 {%- if page.use_math %}
   {% include mathjax_support.html %}
 {%- endif %}
-{%- endraw -%}
 ```
+{%- endraw -%}
 
 ## 2) Vkládání _MathJax_ skriptu pouze do článků, kde jej hodláme použít
 
