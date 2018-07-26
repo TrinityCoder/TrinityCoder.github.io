@@ -32,4 +32,5 @@ article[class='post'] {
 
 .post-tags {
   text-align: right;
+  margin-top: 0.8em;
 }
