@@ -18,6 +18,10 @@ plugins:
 defaults:
   - scope:
       path: ""
+    values:
+      comments: true
+  - scope:
+      path: ""
       type: posts
     values:
       layout: post

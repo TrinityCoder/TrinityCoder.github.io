@@ -1,7 +1,5 @@
 ---
-layout:   page
 title:    O mně
-comments: true
 ---
 Jmenuji se __Miroslav Mareš__ a je mi přes 22 let. Nejvíc ze všeho mě baví počítače, programování,
 Linux a věci s těmito související.
