@@ -13,10 +13,10 @@ Pro názornost budu v příkazech používat obraz [`debian:experimental`][2], k
 příkazem `docker pull debian:experimental`.
 
 Správnou odpovědí je stisknout `CTRL`+`p` a hned poté `CTRL`+`q`. Tím se váš terminál přepne
-z `bash`e uvnitř kontejneru do původního `bash` v hostitelském počítači, ale kontejner pořád
+z `bash`e uvnitř kontejneru do původního `bash`e v hostitelském počítači, ale kontejner pořád
 poběží. Vizte tuto ukázku:
 
-```bash
+```
 mmares@nb:~/diapozitivy$ sudo docker run -i -t debian:experimental
 root@48c9f7e155c5:/# zde dejte CTRL+p, CTRL+q
 mmares@nb:~/diapozitivy$ sudo docker ps
@@ -29,7 +29,7 @@ Další možností je spouštět kontejnery příkazem `docker run -i -t -d Naze
 kde `-d` znamená "detached" - kontejner se rovnou spustí na pozadí a nemusíte tak provádět
 výše uvedenou klávesovou kombinaci.
 
-```bash
+```
 mmares@mirek-nb:~/diapozitivy$ sudo docker run -i -t -d debian:experimental
 085abeb9658a9aecd63412d1eaae0ea53f29c12bff2da407c746a4b412019822
 mmares@mirek-nb:~/diapozitivy$
@@ -37,7 +37,7 @@ mmares@mirek-nb:~/diapozitivy$
 
 Ke kontejneru se pak můžete připojit pomocí příkazu `docker attach ContainerID`.
 
-```bash
+```
 mmares@mirek-nb:~/diapozitivy$ sudo docker attach 085abeb9658a9aecd63412d1eaae0ea53f29c12bff2da407c746a4b412019822
 root@085abeb9658a:/#
 ```
