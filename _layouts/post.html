@@ -4,7 +4,7 @@ layout: default
 <article class="post">
   <div class="post-header">
     <time datetime="{{ page.date | date_to_xmlschema }}">
-      <small>{{ page.date | date: "%d. %m. %Y" }}</small>
+      <small>{{ page.date | date: "%d. %m. %Y %H:%M:%S" }}</small>
     </time>
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </div>
