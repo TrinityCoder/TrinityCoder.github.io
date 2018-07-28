@@ -1,6 +1,6 @@
 ---
 title: Jak "odpojit" terminál od běžícího Docker kontejneru, ale nezastavit ho?
-date:  2018-07-29 00:20
+date:  2018-07-29 00:20 +0200
 tags: [docker, terminál]
 ---
 Pokud začínáte s [_Dockerem_][1], pravděpodobně spouštíte kontejnery pomocí příkazu jako tento:
