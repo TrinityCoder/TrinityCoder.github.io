@@ -38,3 +38,9 @@ article[class='post'] {
   text-align: right;
   margin-top: 0.8em;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
