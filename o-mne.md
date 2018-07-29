@@ -1,12 +1,11 @@
 ---
 title:    O mně
 ---
-<p class="clearfix">
 <img src="{{ '/assets/profile.jpg' | relative_url }}"
      style="float: left; width: 8em; height: 8em; margin-right: 0.7em;">
+
 Jmenuji se <strong>Miroslav Mareš</strong> a je mi přes 22 let. Nejvíc ze všeho mě baví počítače,
 programování, Linux a věci s těmito související.
-</p>
 
 Uvádím zde odkazy na většinu ze svých internetových profilů, které (aspoň trochu) aktivně používám:
 
