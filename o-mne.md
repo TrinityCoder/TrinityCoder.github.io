@@ -1,7 +1,7 @@
 ---
 title:    O mně
 ---
-![Moje profilovka!]({{ "/assets/profile.jpg" | relative_url }}){.profilovka-mala}
+![Moje profilovka!]({{ "/assets/profile.jpg" | relative_url }}){:height="8em" width="8em"}
 Jmenuji se __Miroslav Mareš__ a je mi přes 22 let. Nejvíc ze všeho mě baví počítače, programování,
 Linux a věci s těmito související.
 
