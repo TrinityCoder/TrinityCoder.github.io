@@ -5,7 +5,7 @@
  */
 
 .btn-gitlab .icon {
-  background: url('/assets/gitlab-logo-16x16-final.png') 0 0 no-repeat;
+  background: url('/assets/gitlab-logo-16x16-final.png')  0  0  no-repeat;
   opacity: 0.6;
 }
 
@@ -23,7 +23,7 @@
 }
 
 .site-description {
-  margin: 0 0 20px 40px;
+  margin: 0  0  20px  40px;
 }
 
 article[class='post'] {
@@ -39,14 +39,18 @@ article[class='post'] {
   margin-top: 0.8em;
 }
 
-.mala-profilovka-left {
+.mala-profilovka--left {
   float: left;
   width: 8em;
-  margin: 0 0.7em 0.7em 0;
+  margin: 0  0.85em  0.85em  0;
 }
 
+/* Clearfix = to be used ON containers containing floats to force them to span those floats.
+   NOTE: Clearfix can be used as pure "clear" as well - simply put <div class="clearfix"></div>
+   into the HTML and it will clear the preceding floats . Therefore, I will not write a special
+   .clear class - I will use .clearfix class for both uses. */
 .clearfix::after {
   content: "";
-  clear: both;
   display: table;
+  clear: both;
 }
