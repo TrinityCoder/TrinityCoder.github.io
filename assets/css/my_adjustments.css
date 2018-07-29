@@ -39,6 +39,12 @@ article[class='post'] {
   margin-top: 0.8em;
 }
 
+.mala-profilovka-left {
+  float: left;
+  width: 8em;
+  margin: 0 0.7em 0.7em 0;
+}
+
 .clearfix::after {
   content: "";
   clear: both;
