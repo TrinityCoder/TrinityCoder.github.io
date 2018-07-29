@@ -4,7 +4,7 @@ title:    O mně
 <img src="{{ '/assets/profile.jpg' | relative_url }}"
      alt="Moje profilovka!" class="mala-profilovka--left">
 
-Jmenuji se <strong>Miroslav Mareš</strong> a je mi přes 22 let. Nejvíc ze všeho mě baví počítače,
+Jmenuji se __Miroslav Mareš__ a je mi přes 22 let. Nejvíc ze všeho mě baví počítače,
 programování, Linux a věci s těmito související.
 
 Uvádím zde odkazy na většinu ze svých internetových profilů, které (aspoň trochu) aktivně používám:
@@ -13,15 +13,13 @@ Uvádím zde odkazy na většinu ze svých internetových profilů, které (aspo
 
 Síť             | Adresa
 ---------------:|:-----------------------------------------------------------------------------------------
+__e-mail:__     | [__mailto:mmares.trinity@gmail.com__](mailto:mmares.trinity@gmail.com)
 Facebook:       | [Kvaternion](https://facebook.com/Kvaternion)
 GitHub:         | [TrinityCoder](https://github.com/TrinityCoder)
 Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
 LinkedIn:       | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
-e-mail:         | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.com)
 MojeID:         | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
-Gravatar:       | [mmarestrinity](https://en.gravatar.com/mmarestrinity)
 Stack Overflow: | [miroslav-mares](https://stackoverflow.com/users/1003701/miroslav-mares)
-Docker Hub:     | [mmares](https://hub.docker.com/u/mmares/)
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
