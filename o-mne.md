@@ -6,14 +6,17 @@ Linux a věci s těmito související.
 
 Uvádím zde odkazy na většinu ze svých internetových profilů, které aktivně používám:
 
-Síť            | Adresa
---------------:|:-----------------------------------------------------------------------------------------
-Facebook:      | [Kvaternion](https://facebook.com/Kvaternion)
-GitHub:        | [TrinityCoder](https://github.com/TrinityCoder)
-Gitlab:        | [mmares.trinity](https://gitlab.com/mmares.trinity)
-LinkedIn:      | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
-e-mail:        | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.com)
-MojeID:        | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
+Síť             | Adresa
+---------------:|:-----------------------------------------------------------------------------------------
+Facebook:       | [Kvaternion](https://facebook.com/Kvaternion)
+GitHub:         | [TrinityCoder](https://github.com/TrinityCoder)
+Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
+LinkedIn:       | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
+e-mail:         | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.com)
+MojeID:         | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
+Gravatar:       | [https://en.gravatar.com/mmarestrinity](mmarestrinity)
+Stack Overflow: | [https://stackoverflow.com/users/1003701/miroslav-mares](miroslav-mares)
+Docker Hub:     | [https://hub.docker.com/u/mmares/](mmares)
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
