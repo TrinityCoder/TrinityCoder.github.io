@@ -45,12 +45,13 @@ article[class='post'] {
   margin: 0  0.85em  0.85em  0;
 }
 
-/* Clearfix = to be used ON containers containing floats to force them to span those floats.
-   NOTE: Clearfix can be used as pure "clear" as well - simply put <div class="clearfix"></div>
-   into the HTML and it will clear the preceding floats . Therefore, I will not write a special
-   .clear class - I will use .clearfix class for both uses. */
+/* The Clearfix - modern version, contains margins! */
+.clearfix::before,
 .clearfix::after {
   content: "";
   display: table;
+}
+
+.clearfix::after {
   clear: both;
 }
