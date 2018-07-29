@@ -14,9 +14,9 @@ Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
 LinkedIn:       | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
 e-mail:         | [mailto:mmares.trinity@gmail.com](mailto:mmares.trinity@gmail.com)
 MojeID:         | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
-Gravatar:       | [https://en.gravatar.com/mmarestrinity](mmarestrinity)
-Stack Overflow: | [https://stackoverflow.com/users/1003701/miroslav-mares](miroslav-mares)
-Docker Hub:     | [https://hub.docker.com/u/mmares/](mmares)
+Gravatar:       | [mmarestrinity](https://en.gravatar.com/mmarestrinity)
+Stack Overflow: | [miroslav-mares](https://stackoverflow.com/users/1003701/miroslav-mares)
+Docker Hub:     | [mmares](https://hub.docker.com/u/mmares/)
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
