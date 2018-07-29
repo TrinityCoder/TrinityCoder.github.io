@@ -26,6 +26,10 @@
   margin: 0  0  20px  40px;
 }
 
+article[class='post'] {
+  margin-bottom: 1.5em;
+}
+
 .post-list > li:not(:last-child) {
   margin-bottom: 0.8em;
 }
