@@ -14,6 +14,7 @@ Uvádím zde odkazy na většinu ze svých internetových profilů, které (aspo
 Síť             | Adresa
 ---------------:|:-----------------------------------------------------------------------------------------
 __e-mail:__     | [__mailto:mmares.trinity@gmail.com__](mailto:mmares.trinity@gmail.com)
+blog na iDNES:  | [miroslavmares1](https://miroslavmares1.blog.idnes.cz/)
 Facebook:       | [Kvaternion](https://facebook.com/Kvaternion)
 GitHub:         | [TrinityCoder](https://github.com/TrinityCoder)
 Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
