@@ -24,7 +24,7 @@ Stack Overflow: | [miroslav-mares](https://stackoverflow.com/users/1003701/miros
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
-([lokální záloha zde]({{ "/assets/gpgkey.txt" | relative_url }})).
+([lokální záloha zde]({{ "/assets/no-robots/gpgkey.txt" | relative_url }})).
 
 Zde je jeho otisk (pro ověření):
 

@@ -1,6 +1,4 @@
 Sitemap: https://mmares.cz/sitemap.xml
 
 User-agent: *
-Disallow: /assets/css/
-Disallow: /assets/js/
-Disallow: /assets/gpgkey.txt
+Disallow: /assets/no-robots/

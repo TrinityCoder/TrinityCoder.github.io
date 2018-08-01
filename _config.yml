@@ -2,6 +2,7 @@ theme: jekyll-theme-hacker
 lang: cs_CZ
 title: mmares.cz - Osobní weblog
 description: IT & general stuff
+url: https://mmares.cz
 author: Miroslav Mareš
 email: mmares.trinity@gmail.com
 timezone: Europe/Prague
