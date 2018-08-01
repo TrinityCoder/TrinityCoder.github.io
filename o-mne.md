@@ -16,6 +16,7 @@ Síť             | Adresa
 __e-mail:__     | [__mailto:mmares.trinity@gmail.com__](mailto:mmares.trinity@gmail.com)
 blog na iDNES:  | [miroslavmares1](https://miroslavmares1.blog.idnes.cz/)
 Facebook:       | [Kvaternion](https://facebook.com/Kvaternion)
+ČSFD:           | [mimars](https://www.csfd.cz/uzivatel/225270-mimars/)
 GitHub:         | [TrinityCoder](https://github.com/TrinityCoder)
 Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
 LinkedIn:       | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
