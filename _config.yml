@@ -35,3 +35,7 @@ defaults:
     values:
       layout: page
       ld_json_type: WebPage
+  - scope:
+      path: "assets/no-robots/no-sitemap"
+    values:
+      sitemap: false

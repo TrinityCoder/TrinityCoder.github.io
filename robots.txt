@@ -2,4 +2,3 @@ Sitemap: https://mmares.cz/sitemap.xml
 
 User-agent: *
 Disallow: /assets/no-robots/
-Disallow: /assets/hacking-umeni-exploitace-obsah.pdf
