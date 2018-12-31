@@ -22,6 +22,7 @@ Gitlab:         | [mmares.trinity](https://gitlab.com/mmares.trinity)
 LinkedIn:       | [miroslav-mareš-kvaternion](https://www.linkedin.com/in/miroslav-mare%C5%A1-kvaternion/)
 MojeID:         | [https://mmares-trinity.mojeid.cz](https://mmares-trinity.mojeid.cz)
 Stack Overflow: | [miroslav-mares](https://stackoverflow.com/users/1003701/miroslav-mares)
+Wikipedie:      | [Wikipedista:Mimars](https://cs.wikipedia.org/wiki/Wikipedista:Mimars)
 
 Pokud byste mi chtěli poslat něco důvěrného tak, aby si to nemohl přečíst kdokoli jiný,
 můžete mi poslat zprávu zašifrovanou pomocí [mého GPG klíče](https://mmares-trinity.mojeid.cz/pgpkey.html)
